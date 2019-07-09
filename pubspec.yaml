@@ -22,3 +22,11 @@ flutter:
 
   assets:
     - images/
+
+  fonts:
+    - family: Neon Absolute Sans
+      fonts:
+        - asset: fonts/NeonAbsoluteSans.ttf
+    - family: Linny
+      fonts:
+        - asset: fonts/Linny.ttf
